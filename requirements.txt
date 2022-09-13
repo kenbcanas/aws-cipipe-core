@@ -1,0 +1,4 @@
+# Make use of the internal PyPi repository.  It will include both
+# modules proxied to PyPi, as well as any internal modules that
+# have been developed
+--index-url=https://egnexus-he.dtveng.net/repository/openvideo-group-pip/simple
